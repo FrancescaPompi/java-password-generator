@@ -15,11 +15,8 @@ public class PasswordGenerator {
 		
 		
 		System.out.print("La password dell'utente Francesca Pompi è: ");
-		System.out.print(nome + "-");
-		System.out.print(cognome + "-");
-		System.out.print(colorePreferito + "-");
-		System.out.print(risultato);
-		
+		System.out.print(nome + "-" + cognome + "-" + colorePreferito + "-" + risultato);
+
 	}
 
 }
